@@ -1,5 +1,3 @@
-Here’s a well-structured and beginner-friendly **README.md** content that you can directly place in your GitHub repository for your **ContactVault** Java Swing project:
-
 ---
 
 # 📇 ContactVault
